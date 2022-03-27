@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: cf37fdfb-d0fb-baf2-6817-7d090eac2a27
 resourcetype: Document
 title: "Said, \u201CThe Essential Terrorist\u201D"
 uid: 9adfae45-3f76-20d5-43d4-af13eb75b346

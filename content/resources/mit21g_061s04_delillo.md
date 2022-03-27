@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: cf37fdfb-d0fb-baf2-6817-7d090eac2a27
 resourcetype: Document
 title: Don DeLillo, Mao II (1991)
 uid: c32a592f-e735-ed4a-e8e2-b83331f02eb0

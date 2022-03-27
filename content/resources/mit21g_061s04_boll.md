@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: cf37fdfb-d0fb-baf2-6817-7d090eac2a27
 resourcetype: Document
 title: "Heinrich B\xF6ll"
 uid: 8c7dbf6d-8d54-a6c0-da43-2e5e74bd4cbb

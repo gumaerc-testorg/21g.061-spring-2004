@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: cf37fdfb-d0fb-baf2-6817-7d090eac2a27
 resourcetype: Document
 title: 'Question: Is Michael Kohlhaas a terrorist?'
 uid: 1f359458-9cab-ecdf-e4f4-5657ce0794e9

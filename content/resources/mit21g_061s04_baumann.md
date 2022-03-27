@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: cf37fdfb-d0fb-baf2-6817-7d090eac2a27
 resourcetype: Document
 title: "Michael Baumann, \u201CHow it all began\u201D"
 uid: ba27de89-44c0-5e30-e789-a1268084375f

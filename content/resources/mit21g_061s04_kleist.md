@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: cf37fdfb-d0fb-baf2-6817-7d090eac2a27
 resourcetype: Document
 title: Heinrich von Kleist (1777-1811)
 uid: 5bef7a94-0272-3aa5-787d-fa2a6444f76b

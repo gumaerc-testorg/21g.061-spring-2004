@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: cf37fdfb-d0fb-baf2-6817-7d090eac2a27
 resourcetype: Document
 title: Anarchy and anarchism
 uid: 0a337282-2dc7-3974-86f5-faa170473b20
