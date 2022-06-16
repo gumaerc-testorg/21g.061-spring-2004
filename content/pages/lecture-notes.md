@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -31,7 +32,7 @@ NOTES
 Introduction
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21g_061s04_introduction))
+({{% resource_link aa8a1aac-41d0-e986-1815-166d1b58d37b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -43,7 +44,7 @@ Introduction
 DeLillo. _Mao II._
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21g_061s04_delillo))
+({{% resource_link c32a592f-e735-ed4a-e8e2-b83331f02eb0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -63,7 +64,7 @@ Scanlan. _Plotting Terror_. Introduction. 
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21g_061s04_said))
+({{% resource_link 9adfae45-3f76-20d5-43d4-af13eb75b346 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -93,7 +94,7 @@ Baumann. "How Everything Started."
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21g_061s04_baumann))
+({{% resource_link ba27de89-44c0-5e30-e789-a1268084375f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -105,7 +106,7 @@ Baumann. "How Everything Started."
 Kleist. _Michael Kohlhaas._
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21g_061s04_kleist))
+({{% resource_link 5bef7a94-0272-3aa5-787d-fa2a6444f76b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -117,7 +118,7 @@ Kleist. _Michael Kohlhaas._
 Wittkowski. "Is Kleist's Michael Kohlhaas a Terrorist?"
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21g_061s04_wittkowiski))
+({{% resource_link 1f359458-9cab-ecdf-e4f4-5657ce0794e9 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -137,7 +138,7 @@ Kropotkin. "The Spirit of Revolt"
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21g_061s04_fleming))
+({{% resource_link 0a337282-2dc7-3974-86f5-faa170473b20 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -149,7 +150,7 @@ Kropotkin. "The Spirit of Revolt"
 Conrad. _The Secret Agent._
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21g_061s04_conrad))
+({{% resource_link 60b4a282-8746-ad30-e4a4-194a04fc9593 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -193,7 +194,7 @@ Corrado. "The Evolution of the Irish Republican Army."
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21g_061s04_lessing))
+({{% resource_link c6424803-bead-87ce-e3fe-12c0a5310a44 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -211,7 +212,7 @@ Wieviorka. "The Italian Phenomenon of Leftist Extremist Terrorism."
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21g_061s04_fo))
+({{% resource_link 78a0622e-a87d-65b7-f842-1872a7e19303 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -241,7 +242,7 @@ Crockett. _Understanding Friedrich Dürrenmatt: The Assignment_.
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21g_061s04_durrenmatt))
+({{% resource_link ba441d6b-8b93-8c4d-6cbb-195b726e49b7 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -259,7 +260,7 @@ Corrado. "The History of the German Student Movement and the Birth of the Baader
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21g_061s04_boll))
+({{% resource_link 8c7dbf6d-8d54-a6c0-da43-2e5e74bd4cbb "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -277,7 +278,7 @@ Grimonprez. _Dial History_.
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21g_061s04_06104notes))
+({{% resource_link e07719c9-0fba-13f3-57ba-7b98fb993325 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
