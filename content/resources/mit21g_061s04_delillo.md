@@ -6,6 +6,7 @@ file: /courses/21g-061-advanced-topics-plotting-terror-in-european-culture-sprin
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Don DeLillo, Mao II (1991)
 uid: c32a592f-e735-ed4a-e8e2-b83331f02eb0
 ---
 This resource contains the information regarding Don DeLillo, Mao II (1991).
-

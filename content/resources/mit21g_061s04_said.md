@@ -6,6 +6,7 @@ file: /courses/21g-061-advanced-topics-plotting-terror-in-european-culture-sprin
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: "Said, \u201CThe Essential Terrorist\u201D"
 uid: 9adfae45-3f76-20d5-43d4-af13eb75b346
 ---
 This resource contains the information regarding Said, “The Essential Terrorist”.
-

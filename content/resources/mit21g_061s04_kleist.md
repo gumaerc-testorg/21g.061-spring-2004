@@ -6,6 +6,7 @@ file: /courses/21g-061-advanced-topics-plotting-terror-in-european-culture-sprin
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Heinrich von Kleist (1777-1811)
 uid: 5bef7a94-0272-3aa5-787d-fa2a6444f76b
 ---
 This resource contains the information regarding Heinrich von Kleist (1777-1811).
-

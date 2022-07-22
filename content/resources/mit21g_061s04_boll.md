@@ -5,6 +5,7 @@ file: /courses/21g-061-advanced-topics-plotting-terror-in-european-culture-sprin
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: "Heinrich B\xF6ll"
 uid: 8c7dbf6d-8d54-a6c0-da43-2e5e74bd4cbb
 ---
 This resource contains the information regarding Heinrich Böll.
-

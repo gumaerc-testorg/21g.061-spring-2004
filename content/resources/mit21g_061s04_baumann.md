@@ -6,6 +6,7 @@ file: /courses/21g-061-advanced-topics-plotting-terror-in-european-culture-sprin
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: "Michael Baumann, \u201CHow it all began\u201D"
 uid: ba27de89-44c0-5e30-e789-a1268084375f
 ---
 This resource contains the information regarding Michael Baumann, “How it all began”.
-

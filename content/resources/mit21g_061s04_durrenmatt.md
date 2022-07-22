@@ -6,6 +6,7 @@ file: /courses/21g-061-advanced-topics-plotting-terror-in-european-culture-sprin
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: "Friedrich D\xFCrrenmatt, The Assignment (1986)"
 uid: ba441d6b-8b93-8c4d-6cbb-195b726e49b7
 ---
 This resource contains the information regarding Friedrich Dürrenmatt, the assignment (1986).
-
