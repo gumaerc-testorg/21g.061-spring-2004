@@ -2,7 +2,7 @@
 content_type: resource
 description: "This resource contains the information regarding Michael Baumann, \u201C\
   How it all began\u201D."
-file: /courses/21g-061-advanced-topics-plotting-terror-in-european-culture-spring-2004/ba27de8944c05e30e789a1268084375f_MIT21G_061S04_baumann.pdf
+file: /ol-ocw-studio-app/courses/21g-061-advanced-topics-plotting-terror-in-european-culture-spring-2004/ba27de8944c05e30e789a1268084375f_MIT21G_061S04_baumann.pdf
 file_size: 598832
 file_type: application/pdf
 learning_resource_types:
