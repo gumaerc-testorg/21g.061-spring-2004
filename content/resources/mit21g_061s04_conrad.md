@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding Conrad, the secret agent
   (1907).
-file: /courses/21g-061-advanced-topics-plotting-terror-in-european-culture-spring-2004/60b4a2828746ad30e4a4194a04fc9593_MIT21G_061S04_conrad.pdf
+file: /ol-ocw-studio-app/courses/21g-061-advanced-topics-plotting-terror-in-european-culture-spring-2004/60b4a2828746ad30e4a4194a04fc9593_MIT21G_061S04_conrad.pdf
 file_size: 608628
 file_type: application/pdf
 learning_resource_types:
