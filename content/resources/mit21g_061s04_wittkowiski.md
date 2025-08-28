@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding is Michael Kohlhaas
   a terrorist?
-file: /courses/21g-061-advanced-topics-plotting-terror-in-european-culture-spring-2004/1f3594589cabecdfe4f45657ce0794e9_MIT21G_061S04_wittkowiski.pdf
+file: /ol-ocw-studio-app/courses/21g-061-advanced-topics-plotting-terror-in-european-culture-spring-2004/1f3594589cabecdfe4f45657ce0794e9_MIT21G_061S04_wittkowiski.pdf
 file_size: 116290
 file_type: application/pdf
 learning_resource_types:
